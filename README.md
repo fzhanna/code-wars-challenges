@@ -1,2 +1,2 @@
 # code-wars-challenges
-"Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata." This is repo with all my solved challenges
+"Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata." This repo has all my solved challenges
